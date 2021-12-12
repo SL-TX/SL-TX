@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... Reversing, Decompilling, Compilling and Assembling
 - 🌱 I’m currently learning ... Sources and OpCodes
 - 💞️ I’m looking to collaborate on ... Projects
-- 📫 How to reach me ... yandex, 4pda, gitlab or there
+- 📫 How to reach me ... yandex, xda, 4pda, gitlab or there
